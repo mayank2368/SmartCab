@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">होय</string>
+    <string name="no">नाही</string>
+    <string name="app_name">SmartCab</string>
+    <string name="App_Title">SmartCab</string>
+    <string name="subtitle">जीवन उत्कृष्ट!</string>
+    <string name="title">Agriculture</string>
+    <string name="getStarted">सुरु करूया</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">घर</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">शोध टॅक्सी</string>
+    <string name="source">स्रोत</string>
+    <string name="destination">गंतव्य</string>
+    <string name="duration">कालावधी</string>
+    <string name="distance">अंतर</string>
+    <string name="Taxi">टॅक्सी</string>
+    <string name="comp">किंमत Comparator</string>
+    <string name="taxitype">टॅक्सी प्रकार</string>
+    <string name="about_us_part1">स्मार्ट रेल्वे इंजिन कॅब शोध आणि किंमत तुलनेत अनुप्रयोग आहे. येथे, आम्ही त्याच्या / तिच्या स्वत: च्या निवड कार नोंदणी करण्यासाठी वापरकर्त्यांना एक सुविधा उपलब्ध.</string>
+    <string name="about_us_part2">वापरकर्ते भाडे दर तुलना करू शकता आणि नंतर एक परिपूर्ण टँक्सी निवडा. या अनुप्रयोग मध्ये आम्ही प्रत्यक्षात टँक्सी आरक्षण सहभागी नाहीत. येथे, आपण कंपन्या थेट बुकिंग करा. वापरकर्ता सुरक्षिततेसाठी, आम्ही बुकिंग अनुप्रयोग द्वारे केलेल्या व्यवहारांसाठी नाही रेकॉर्ड ठेवा आणि एक प्रवेश किंवा कोणत्याही प्रकारे आपल्या बुकिंग बदलू शकत नाही.</string>
+    <string name="email_string">आम्हाला ईमेल पाठवा?</string>
+    <string name="contact">संपर्क माहिती</string>
+    <string name="contact_us">श्री Bhagubhai मफतलाल पॉलिटेक्निक Irla, एन आर जी मार्ग, उलट कूपर रुग्णालयात दाखल, विलेपार्ले (प), मुंबई 400056 भारत</string>
+    <string name="exit">बाहेर पडा?</string>
+    <string name="confirmExit">आपण मधून निर्गमन करू इच्छिता याची आपल्याला खात्री आहे?</string>
+</resources>

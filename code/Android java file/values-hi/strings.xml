@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">हाँ"</string>
+    <string name="no">नहीं</string>
+    <string name="app_name">SmartCab</string>
+    <string name="App_Title">SmartCab</string>
+    <string name="subtitle">लाइफ लाइफ स्मार्ट!</string>
+    <string name="title">Agriculture</string>
+    <string name="getStarted">शुरू हो जाओ</string>
+    <string name="title_activity_main">मुख्य गतिविधि</string>
+    <string name="title_home">घर</string>
+    <string name="title_dashboard">डैशबोर्ड</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">खोज टैक्सी</string>
+    <string name="source">स्रोत</string>
+    <string name="destination">गंतव्य</string>
+    <string name="duration">अवधि</string>
+    <string name="distance">दूरी</string>
+    <string name="Taxi">टैक्सी</string>
+    <string name="comp">मूल्य तुलनात्मक</string>
+    <string name="taxitype">करिताप</string>
+    <string name="about_us_part1">स्मार्ट कैब एक टैक्सी खोज और मूल्य तुलना अनुप्रयोग है। यहां, हम उपयोगकर्ताओं को अपनी पसंद की कार को बुकिंग करने के लिए सुविधा प्रदान करते हैं।</string>
+    <string name="about_us_part2">उपयोगकर्ता किराए की कीमतों की तुलना कर सकते हैं और फिर एक आदर्श कैब का चयन कर सकते हैं। इस आवेदन में हम वास्तव में टैक्सी की बुकिंग में शामिल नहीं हैं I यहां, आप सीधे कंपनियों के साथ बुकिंग करते हैं उपयोगकर्ता की सुरक्षा के लिए, हम बुकिंग एप्लिकेशन के माध्यम से किए गए लेन-देन का कोई भी रिकॉर्ड नहीं रखते हैं और कोई भी आपकी बुकिंग को किसी भी तरह से एक्सेस या परिवर्तित नहीं कर सकता है।</string>
+    <string name="email_string">हमें ईमेल भेजो?</string>
+    <string name="contact">संपर्क जानकारी</string>
+    <string name="contact_us">श्री भागुभाई मफतलाल पॉलीटेक्निक इरला, एन आर जी मार्ग, विपक्षी कूपर अस्पताल, विलेपर्ले (डब्ल्यू), मुंबई 400056 भारत</string>
+    <string name="exit">बाहर जाएं?</string>
+    <string name="confirmExit">" क्या आप निसंदेह बाहर निकलना चाहते हैं?"</string>
+</resources>

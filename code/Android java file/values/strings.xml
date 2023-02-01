@@ -1,0 +1,28 @@
+<resources>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+    <string name="app_name">SmartCab</string>
+    <string name="App_Title">SmartCab</string>
+    <string name="subtitle">Live life Smarter!</string>
+    <string name="title">Agriculture</string>
+    <string name="getStarted">Get Started</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">SEARCH TAXI</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="duration">Duration</string>
+    <string name="distance">distance</string>
+    <string name="Taxi">Taxi</string>
+    <string name="comp">Price Comparator</string>
+    <string name="taxitype">Taxitype</string>
+    <string name="about_us_part1">Smart Cab is a cab search and price comparison application. Here, we provide a facility to the users for booking the car of his/her own choice.</string>
+    <string name="about_us_part2">Users can compare fare prices and then select a perfect cab. In this application we are not actually involved in the booking of the cab. Here, you make a booking directly with companies. For the user security, we keep no records of the transactions made through the booking applications and one cannot access or alter your booking in any way.</string>
+    <string name="email_string">Send us an Email?</string>
+    <string name="contact">Contact Information</string>
+    <string name="contact_us">Shri Bhagubhai Mafatlal Polytechnic Irla, N. R. G Marg, Opposite Cooper Hospital, Vileparle (W), Mumbai 400056 India</string>
+    <string name="exit">Exit?</string>
+    <string name="confirmExit">Are you sure you want to exit?</string>
+</resources>

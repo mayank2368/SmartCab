@@ -1,0 +1,4 @@
+SoftwareUSed :- AndroidStudio, sublime, xampp, filezilla
+SoftwareRequirement :- Browser, AndroidPhone, internet, mysqlserver, xamppserver, smtpserver
+LanguageUSed :- Php, HTML, Android, XML,CSS, HTML, Jquery, javaScript, Ajax, mysql, JSON
+HardwareRequirement :- AndroidDevice, serverspace
